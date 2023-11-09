@@ -58,7 +58,7 @@ def entry_to_use(in1, outcome):
 
 
 def evaluate_outcome(outcome) -> int:
-    mydict = {'X': 0, 'Y': 3, 'Z':6}
+    mydict = {'X': 0, 'Y': 3, 'Z': 6}
     return mydict[outcome]
 
 
